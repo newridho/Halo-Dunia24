@@ -14,8 +14,8 @@
 
 Do read the [Contribution Guidelines](/CONTRIBUTING.md)
 
-- 📚 Add new file with other programming language
-- 🐞 Reporting issues
+📚 Add new file with other programming language
+<!--- 🐞 Reporting issues -->
 
 ### FAQs
 
