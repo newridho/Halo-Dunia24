@@ -1,0 +1,17 @@
+$font-stack: Helvetica, sans-serif;
+$primary-color: #333;
+
+body {
+    font: 100% $font-stack;
+    color: $primary-color;
+}
+
+.hello-world {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20%;
+}
+
+.hello-world::after {
+    content: "Hello, world!";
+}
