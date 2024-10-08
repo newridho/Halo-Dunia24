@@ -4,4 +4,4 @@ contains
     subroutine greet()
         print *, 'Hello, World!'
     end subroutine greet
-end program hello_worldg
+end program hello_world
