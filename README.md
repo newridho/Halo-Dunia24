@@ -21,7 +21,16 @@ Do read the [Contribution Guidelines](/CONTRIBUTING.md)
 
 If you have any questions, please check our [FAQs](Faqs.md) for answers.
 
+## Our Amazing Contributors 
+
+<a href="https://github.com/newridho/Halo-Dunia24/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=newridho/Halo-Dunia24" />
+</a>
+
 <br>
+<br>
+<br>
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/hacktoberfest2024--blueviolet" alt="Hacktober Badge"/>
@@ -32,5 +41,3 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 <a href="https://github.com/newridho/Halo-Dunia24/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/newridho/Halo-Dunia24?color=2b9348"></a>
 
 </div>
-
-[Reference](https://github.com/ossamamehmood/Hacktoberfest2024/blob/main/README.md)
